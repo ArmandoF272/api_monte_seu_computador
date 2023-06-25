@@ -1,0 +1,2 @@
+class MemoriaRam < ApplicationRecord
+end

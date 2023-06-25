@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  qtd_slots_memoria: 1
+  total_memoria_suportado: 1
+  video_integrado: false
+
+two:
+  nome: MyString
+  qtd_slots_memoria: 1
+  total_memoria_suportado: 1
+  video_integrado: false

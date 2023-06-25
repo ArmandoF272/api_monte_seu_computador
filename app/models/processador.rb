@@ -1,0 +1,2 @@
+class Processador < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class PlacaVideo < ApplicationRecord
+end
